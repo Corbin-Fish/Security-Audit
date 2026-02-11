@@ -1,0 +1,8 @@
+I plan to use a python web scraping system called "scrapy" to pull information from websites specifically advertisements and third party links
+I will be specifically be scraping one site and its subdirectories at a time 
+Once i have a sufficient set of advertisment links i will be testing each in a VM to try and find malicious software 
+
+any malicious software found will be inspected and sanitized then included in this project
+any malicious advertisers or security faults found will not be included in this project but will be reported to the sites technical contact
+
+I will not be accepting any bug bounties during my audit either
