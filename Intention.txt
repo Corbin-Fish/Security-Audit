@@ -1,5 +1,3 @@
-The Intention of this project is to be better at security research and collect a list of all malicious content available on the top 100 adult websites sourced from semrush.com
+The Intention of this project is to be better at security research and collect a list of all malicious content available on the top 20 adult websites sourced from semrush.com
 
 I do not mean to influence peoples behaviour or affect the business of any of the companies or website I will be auditing
-
-
